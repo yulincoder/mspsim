@@ -1,4 +1,4 @@
-* MSPSim version 0.9x
+* MSPSim version 0.9x -t
 
 MSPSim is a Java-based instruction level emulator of the MSP430 series
 microprocessor and emulation of some sensor networking
